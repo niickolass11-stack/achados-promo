@@ -1,1 +1,346 @@
-[{"name": "Kit 2 pares de tênis masculinos", "category": "Moda", "image": "assets/kit-tenis-foto-nova.png", "price": 56.9, "url": "https://meli.la/2NvdZvB", "conditions": "Com cupom, conforme anúncio enviado. Confira as condições na loja."}, {"name": "Headphone Dapon H02d Bluetooth 5.1", "category": "Tecnologia", "image": "assets/fone-dapon.jpg", "price": 67.45, "url": "https://meli.la/1wLSvkS", "conditions": "No Pix com cupom. R$ 78,90 em outros meios de pagamento."}, {"name": "Cadeira Gamer Lancer Preta e Branca Healer", "category": "Casa", "image": "assets/cadeira-healer.jpg", "price": 468.42, "url": "https://meli.la/291FpBd", "conditions": "No Pix com cupom. Ou R$ 599,00 em 10x de R$ 59,90 sem juros."}, {"name": "Kit 2 controles sem fio para PS4 e PC Bluetooth", "category": "Tecnologia", "image": "assets/kit-controles.jpg", "price": 92.05, "url": "https://meli.la/1SYzyBu", "conditions": "Com cupom. R$ 96,90 em outros meios de pagamento."}, {"name": "Kit 5 camisetas básicas masculinas Dry Fit", "category": "Moda", "image": "assets/camisetas.svg", "price": 39.2, "url": "https://meli.la/1Lxky3o", "conditions": "No Pix. R$ 49,00 em outros meios de pagamento."}, {"name": "Kit 4 shorts masculinos tactel praia e academia", "category": "Moda", "image": "assets/shorts.svg", "price": 68.88, "url": "https://meli.la/2u9sLhu", "conditions": "No Pix. R$ 78,88 em outros meios de pagamento."}, {"name": "Tênis Puma preto — tamanho 41 BR", "category": "Moda", "image": "assets/tenis-puma.svg", "price": 89.9, "url": "https://meli.la/2E6wAc3", "conditions": "No Pix. R$ 99,90 em outros meios de pagamento."}, {"name": "Mini soprador de ar potente Turbo 130000 RPM Davely", "category": "Tecnologia", "image": "assets/mini-soprador.svg", "price": 37.62, "url": "https://meli.la/1BqNPta", "conditions": "No Pix. R$ 46,90 em outros meios de pagamento."}, {"name": "Kit 5 potes herméticos com tampas de vedação", "category": "Casa", "image": "assets/potes-hermeticos.svg", "price": 27.91, "url": "https://meli.la/31yRVRu", "conditions": "No Pix. R$ 34,89 em outros meios de pagamento."}, {"name": "Smart Pro TV Box 4K Android — Wi-Fi 5G", "category": "Tecnologia", "image": "assets/smart-tv-box.svg", "price": 171, "url": "https://meli.la/28te1g7", "conditions": "No Pix. R$ 181,00 em outros meios de pagamento."}, {"name": "Churrasqueira portátil a carvão dobrável preta", "category": "Casa", "image": "assets/churrasqueira.svg", "price": 57.8, "url": "https://meli.la/2xrWcbt", "conditions": "No Pix. R$ 67,80 em 3x de R$ 22,60 sem juros."}, {"name": "Kit 6 potes de vidro porta-temperos herméticos", "category": "Casa", "image": "assets/porta-temperos.svg", "price": 31.91, "url": "https://meli.la/2GTpRxP", "conditions": "No Pix. R$ 39,89 em outros meios de pagamento."}, {"name": "Mini mixer elétrico 2 em 1 portátil recarregável", "category": "Casa", "image": "assets/mini-mixer.svg", "price": 15.99, "url": "https://meli.la/2uoTx1P", "conditions": "Com saldo no Mercado Pago. R$ 19,99 em outros meios de pagamento."}, {"name": "Tênis feminino plataforma Porcelana confortável e elegante", "category": "Moda", "image": "assets/tenis-feminino.svg", "price": 66.04, "url": "https://meli.la/2QsXMZV", "conditions": "No Pix. R$ 76,04 em 3x de R$ 25,35 sem juros."}, {"name": "Massageador de pescoço e ombros recarregável 3D verde", "category": "Casa", "image": "assets/massageador.svg", "price": 65.88, "url": "https://meli.la/1bSAoB6", "conditions": "No Pix. R$ 75,88 em outros meios de pagamento."}, {"name": "Máquina de cortar cabelo e barba sem fio Dragão", "category": "Beleza", "image": "assets/maquina-dragao.svg", "price": 24.72, "url": "https://meli.la/1gd2bES", "conditions": "Com saldo no Mercado Pago. R$ 30,90 em outros meios de pagamento."}, {"name": "Secador de cabelos Travel Mondial 1200W SC-47-GR", "category": "Beleza", "image": "assets/secador-mondial.svg", "price": 69, "url": "https://meli.la/2n9dHS7", "conditions": "No Pix. R$ 79,00 em outros meios de pagamento."}, {"name": "Garrafa térmica a vácuo 1000 ml em aço inox 304", "category": "Casa", "image": "assets/garrafa-termica.svg", "price": 31.1, "url": "https://meli.la/2pda6sG", "conditions": "No Pix. R$ 38,87 em outros meios de pagamento."}, {"name": "Kit 3 pares de meias com estampa de academia", "category": "Moda", "image": "assets/kit-meias.svg", "price": 17.59, "url": "https://meli.la/2yxRPYu", "conditions": "Com saldo no Mercado Pago. R$ 21,99 em outros meios de pagamento."}]
+[
+  {
+    "name": "Kit 2 pares de tênis masculinos",
+    "category": "Moda",
+    "image": "assets/kit-tenis-foto-nova.png",
+    "price": 56.9,
+    "url": "https://meli.la/2NvdZvB",
+    "conditions": "Com cupom, conforme anúncio enviado. Confira as condições na loja."
+  },
+  {
+    "name": "Headphone Dapon H02d Bluetooth 5.1",
+    "category": "Tecnologia",
+    "image": "assets/fone-dapon.jpg",
+    "price": 67.45,
+    "url": "https://meli.la/1wLSvkS",
+    "conditions": "No Pix com cupom. R$ 78,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Cadeira Gamer Lancer Preta e Branca Healer",
+    "category": "Casa",
+    "image": "assets/cadeira-healer.jpg",
+    "price": 468.42,
+    "url": "https://meli.la/291FpBd",
+    "conditions": "No Pix com cupom. Ou R$ 599,00 em 10x de R$ 59,90 sem juros."
+  },
+  {
+    "name": "Kit 2 controles sem fio para PS4 e PC Bluetooth",
+    "category": "Tecnologia",
+    "image": "assets/kit-controles.jpg",
+    "price": 92.05,
+    "url": "https://meli.la/1SYzyBu",
+    "conditions": "Com cupom. R$ 96,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 5 camisetas básicas masculinas Dry Fit",
+    "category": "Moda",
+    "image": "assets/camisetas.svg",
+    "price": 39.2,
+    "url": "https://meli.la/1Lxky3o",
+    "conditions": "No Pix. R$ 49,00 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 4 shorts masculinos tactel praia e academia",
+    "category": "Moda",
+    "image": "assets/shorts.svg",
+    "price": 68.88,
+    "url": "https://meli.la/2u9sLhu",
+    "conditions": "No Pix. R$ 78,88 em outros meios de pagamento."
+  },
+  {
+    "name": "Tênis Puma preto — tamanho 41 BR",
+    "category": "Moda",
+    "image": "assets/tenis-puma.svg",
+    "price": 89.9,
+    "url": "https://meli.la/2E6wAc3",
+    "conditions": "No Pix. R$ 99,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Mini soprador de ar potente Turbo 130000 RPM Davely",
+    "category": "Tecnologia",
+    "image": "assets/mini-soprador.svg",
+    "price": 37.62,
+    "url": "https://meli.la/1BqNPta",
+    "conditions": "No Pix. R$ 46,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 5 potes herméticos com tampas de vedação",
+    "category": "Casa",
+    "image": "assets/potes-hermeticos.svg",
+    "price": 27.91,
+    "url": "https://meli.la/31yRVRu",
+    "conditions": "No Pix. R$ 34,89 em outros meios de pagamento."
+  },
+  {
+    "name": "Smart Pro TV Box 4K Android — Wi-Fi 5G",
+    "category": "Tecnologia",
+    "image": "assets/smart-tv-box.svg",
+    "price": 171,
+    "url": "https://meli.la/28te1g7",
+    "conditions": "No Pix. R$ 181,00 em outros meios de pagamento."
+  },
+  {
+    "name": "Churrasqueira portátil a carvão dobrável preta",
+    "category": "Casa",
+    "image": "assets/churrasqueira.svg",
+    "price": 57.8,
+    "url": "https://meli.la/2xrWcbt",
+    "conditions": "No Pix. R$ 67,80 em 3x de R$ 22,60 sem juros."
+  },
+  {
+    "name": "Kit 6 potes de vidro porta-temperos herméticos",
+    "category": "Casa",
+    "image": "assets/porta-temperos.svg",
+    "price": 31.91,
+    "url": "https://meli.la/2GTpRxP",
+    "conditions": "No Pix. R$ 39,89 em outros meios de pagamento."
+  },
+  {
+    "name": "Mini mixer elétrico 2 em 1 portátil recarregável",
+    "category": "Casa",
+    "image": "assets/mini-mixer.svg",
+    "price": 15.99,
+    "url": "https://meli.la/2uoTx1P",
+    "conditions": "Com saldo no Mercado Pago. R$ 19,99 em outros meios de pagamento."
+  },
+  {
+    "name": "Tênis feminino plataforma Porcelana confortável e elegante",
+    "category": "Moda",
+    "image": "assets/tenis-feminino.svg",
+    "price": 66.04,
+    "url": "https://meli.la/2QsXMZV",
+    "conditions": "No Pix. R$ 76,04 em 3x de R$ 25,35 sem juros."
+  },
+  {
+    "name": "Massageador de pescoço e ombros recarregável 3D verde",
+    "category": "Casa",
+    "image": "assets/massageador.svg",
+    "price": 65.88,
+    "url": "https://meli.la/1bSAoB6",
+    "conditions": "No Pix. R$ 75,88 em outros meios de pagamento."
+  },
+  {
+    "name": "Máquina de cortar cabelo e barba sem fio Dragão",
+    "category": "Beleza",
+    "image": "assets/maquina-dragao.svg",
+    "price": 24.72,
+    "url": "https://meli.la/1gd2bES",
+    "conditions": "Com saldo no Mercado Pago. R$ 30,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Secador de cabelos Travel Mondial 1200W SC-47-GR",
+    "category": "Beleza",
+    "image": "assets/secador-mondial.svg",
+    "price": 69,
+    "url": "https://meli.la/2n9dHS7",
+    "conditions": "No Pix. R$ 79,00 em outros meios de pagamento."
+  },
+  {
+    "name": "Garrafa térmica a vácuo 1000 ml em aço inox 304",
+    "category": "Casa",
+    "image": "assets/garrafa-termica.svg",
+    "price": 31.1,
+    "url": "https://meli.la/2pda6sG",
+    "conditions": "No Pix. R$ 38,87 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 3 pares de meias com estampa de academia",
+    "category": "Moda",
+    "image": "assets/kit-meias.svg",
+    "price": 17.59,
+    "url": "https://meli.la/2yxRPYu",
+    "conditions": "Com saldo no Mercado Pago. R$ 21,99 em outros meios de pagamento."
+  },
+  {
+    "name": "Caixinhas de som para PC e notebook",
+    "category": "Tecnologia",
+    "image": "assets/caixa-som.png",
+    "price": 18.72,
+    "url": "https://meli.la/1HieYsG",
+    "conditions": "Com saldo no Mercado Pago. R$ 23,40 em outros meios de pagamento."
+  },
+  {
+    "name": "Carregador Turbo 30W para iPhone",
+    "category": "Tecnologia",
+    "image": "assets/carregador-iphone.png",
+    "price": 35.2,
+    "url": "https://meli.la/2Edb5Yb",
+    "conditions": "No Pix. R$ 44,00 em outros meios de pagamento."
+  },
+  {
+    "name": "Tênis Kappa Park 2.0 unissex",
+    "category": "Moda",
+    "image": "assets/tenis-kappa.png",
+    "price": 79.99,
+    "url": "https://meli.la/32R7pQx",
+    "conditions": "No Pix. R$ 89,99 em outros meios de pagamento."
+  },
+  {
+    "name": "Lixeira inteligente automática 16 L recarregável",
+    "category": "Casa",
+    "image": "assets/lixeira-inteligente.png",
+    "price": 48.9,
+    "url": "https://meli.la/1w7uWSH",
+    "conditions": "No Pix. R$ 58,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 3 caixas sortidas Natura Tododia em barra",
+    "category": "Beleza",
+    "image": "assets/natura-tododia.png",
+    "price": 68,
+    "url": "https://meli.la/2st6TWp",
+    "conditions": "No Pix. R$ 78,00 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 4 blusas femininas ribana canelada",
+    "category": "Moda",
+    "image": "assets/kit-blusas-femininas.png",
+    "price": 47.09,
+    "url": "https://meli.la/1SjcDn5",
+    "conditions": "No Pix com cupom. R$ 58,09 em outros meios de pagamento."
+  },
+  {
+    "name": "Tênis Sneeks feminino casual cinza e rosa",
+    "category": "Moda",
+    "image": "assets/tenis-sneeks.png",
+    "price": 49.9,
+    "url": "https://meli.la/1ip4FyD",
+    "conditions": "No Pix. R$ 59,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 6 peças de roupas infantis para menina",
+    "category": "Moda",
+    "image": "assets/kit-roupas-infantis.png",
+    "price": 45.9,
+    "url": "https://meli.la/2YyXZRM",
+    "conditions": "No Pix. R$ 55,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 4 bermudas masculinas tactel para praia e academia",
+    "category": "Moda",
+    "image": "assets/kit-bermudas-masculinas.png",
+    "price": 65.96,
+    "url": "https://meli.la/2Z2rvwR",
+    "conditions": "No Pix. R$ 75,96 em outros meios de pagamento."
+  },
+  {
+    "name": "Kit 5 bermudas masculinas de moletom sortidas",
+    "category": "Moda",
+    "image": "assets/kit-bermudas-moletom.png",
+    "price": 62.22,
+    "url": "https://meli.la/2yMtTGE",
+    "conditions": "No Pix. R$ 72,22 em outros meios de pagamento."
+  },
+  {
+    "name": "Sandália feminina rasteirinha com strass",
+    "category": "Moda",
+    "image": "assets/sandalia-rasteirinha.png",
+    "price": 44.9,
+    "url": "https://meli.la/2xDy1sT",
+    "conditions": "No Pix. R$ 54,90 em outros meios de pagamento."
+  },
+  {
+    "name": "Calça jeans feminina wide leg cintura alta preta",
+    "category": "Moda",
+    "image": "assets/calca-jeans-wide-leg.png",
+    "price": 49.99,
+    "url": "https://meli.la/2xobbJj",
+    "conditions": "No Pix. R$ 59,99 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Blusa de moletom canguru masculina com capuz",
+    "category": "Moda",
+    "image": "assets/moletom-canguru.png",
+    "price": 38.39,
+    "url": "https://meli.la/1evFVhd",
+    "conditions": "No Pix. R$ 47,99 em outros meios de pagamento. Confira as cores e tamanhos na loja."
+  },
+  {
+    "name": "Kit Dry Fit 8 peças: 4 camisetas e 4 shorts",
+    "category": "Moda",
+    "image": "assets/kit-dry-fit-8-pecas.png",
+    "price": 116.09,
+    "url": "https://meli.la/2TUAxab",
+    "conditions": "No Pix. R$ 126,09 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Pijama infantil de dinossauro com blusa e shorts",
+    "category": "Moda",
+    "image": "assets/pijama-dinossauro.png",
+    "price": 35.6,
+    "url": "https://meli.la/1xeubsw",
+    "conditions": "No Pix. R$ 44,50 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Kit 5 shorts femininos de malha canelada",
+    "category": "Moda",
+    "image": "assets/kit-shorts-femininos.png",
+    "price": 59.9,
+    "url": "https://meli.la/31fBeTq",
+    "conditions": "No Pix. R$ 69,90 em outros meios de pagamento. Confira as cores e tamanhos na loja."
+  },
+  {
+    "name": "Kit 7 camisetas básicas masculinas de algodão",
+    "category": "Moda",
+    "image": "assets/kit-7-camisetas-algodao.png",
+    "price": 123.84,
+    "url": "https://meli.la/1eDQ6sL",
+    "conditions": "No Pix. R$ 137,60 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Kit 3 moletons canguru lisos unissex",
+    "category": "Moda",
+    "image": "assets/kit-3-moletons.png",
+    "price": 144.9,
+    "url": "https://meli.la/2saZaBL",
+    "conditions": "No Pix com cupom. R$ 159,90 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Bermuda jeans masculina",
+    "category": "Moda",
+    "image": "assets/bermuda-jeans.png",
+    "price": 66.53,
+    "url": "https://meli.la/2tbQRUj",
+    "conditions": "No Pix. R$ 76,53 em outros meios de pagamento."
+  },
+  {
+    "name": "Bota adventure casual de trabalho",
+    "category": "Moda",
+    "image": "assets/bota-adventure.png",
+    "price": 86.99,
+    "url": "https://meli.la/1btmmYt",
+    "conditions": "No Pix. R$ 96,99 em outros meios de pagamento."
+  },
+  {
+    "name": "Tênis Mizuno para academia e caminhada",
+    "category": "Moda",
+    "image": "assets/tenis-mizuno.png",
+    "price": 89.9,
+    "url": "https://meli.la/2b8GZpt",
+    "conditions": "No Pix. R$ 99,90 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Conjunto de moletom e calça unissex Paris",
+    "category": "Moda",
+    "image": "assets/conjunto-moletom-paris.png",
+    "price": 84.9,
+    "url": "https://meli.la/2TDzxXM",
+    "conditions": "No Pix. R$ 94,90 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Calça cargo feminina wide leg cintura alta",
+    "category": "Moda",
+    "image": "assets/calca-cargo-feminina.png",
+    "price": 47,
+    "url": "https://meli.la/2KaMxws",
+    "conditions": "No Pix. R$ 57,00 em outros meios de pagamento. Confira os tamanhos na loja."
+  },
+  {
+    "name": "Kit 3 conjuntos infantis masculinos — 6 peças",
+    "category": "Moda",
+    "image": "assets/kit-conjuntos-infantis.png",
+    "price": 51.39,
+    "url": "https://meli.la/2yKUxZw",
+    "conditions": "No Pix. R$ 61,39 em outros meios de pagamento. Confira os tamanhos na loja."
+  }
+]
